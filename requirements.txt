@@ -6,4 +6,4 @@ rdkit==2023.3.2
 scikit_learn==1.0.2
 torch==1.13.1
 torch_geometric==2.3.1
-torchvision==0.15.2
+torchvision==0.14.1
